@@ -1,0 +1,5 @@
+﻿  TrungTo.cpp
+C:\Users\xuong\source\repos\LTHDTC2\20280022-20280034 Giao dien\20280022-20280034 Giao dien\TrungTo.cpp(187,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\xuong\source\repos\LTHDTC2\20280022-20280034 Giao dien\20280022-20280034 Giao dien\TrungTo.cpp(193,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xuong\source\repos\LTHDTC2\20280022-20280034 Giao dien\20280022-20280034 Giao dien\TrungTo.cpp(362): warning C4715: 'TrungTo::CheckError': not all control paths return a value
+  20280022-20280034 Giao dien.vcxproj -> C:\Users\xuong\source\repos\LTHDTC2\20280022-20280034 Giao dien\x64\Debug\20280022-20280034 Giao dien.exe
